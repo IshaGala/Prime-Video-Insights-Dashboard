@@ -16,7 +16,7 @@ This project analyzes Amazon Prime Video's content library using visualizations.
 
 -Dashboard Interaction <a href="https://github.com/IshaGala/Prime-Video-Insights-Dashboard/blob/main/dashboard.PNG">View Dashboard</a>
 
-##Process
+## Process
 Data Collection & Cleaning – Loaded amazon_prime_titles.csv, handled missing values, and formatted data using Pandas.
 Exploratory Data Analysis (EDA) – Analyzed total titles, genres, ratings, and country-wise content distribution.
 Visualization & Dashboard Development – Used Power BI and Python to create interactive charts and insights.
