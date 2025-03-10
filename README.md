@@ -24,3 +24,17 @@ This project analyzes Amazon Prime Video's content library using visualizations.
 
 ## Dashboard
 ![dashboard](https://github.com/user-attachments/assets/7d9212ef-8a46-4c06-afb8-cec05e700d68)
+
+## Project Insights
+-The Prime Video Insights Dashboard provides a comprehensive analysis of Amazon Prime Video's content library. 
+-It tracks total titles, genre distribution, ratings, country-wise content, and release trends over time. 
+-Key insights include the dominance of movies over TV shows, the most popular genres and age ratings, and content growth since 1920. 
+-The dashboard also highlights top contributing countries and directors. 
+-Built using Power BI and Python, it offers interactive visualizations for data-driven insights
+
+## Final Conclusion
+-The Prime Video Insights Dashboard effectively visualizes key trends in Amazon Prime Video's content library. 
+-It highlights the dominance of movies over TV shows, the most popular genres and ratings, and the growth of content over time. 
+-The analysis provides insights into top-producing countries and directors, helping understand streaming trends. 
+-This project showcases data-driven storytelling using Power BI and Python. 
+-Future improvements could include viewer ratings and regional popularity trends for deeper insights.
